@@ -6,12 +6,9 @@
 ## Table of Contents
 * [General Information](#general-information)
     * [Data](#data)
-    * [EDA](#eda)
-    * [Model](#model)
 * [Technologies](#technologies)
     * [Python](#python)
-    * [Visualization](#visualization)
-* [Conclusion](#conclusion)
+    * [Database](#database)
 * [Future Improvements](#future-improvements)
 
 ## General Information
